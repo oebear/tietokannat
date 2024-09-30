@@ -142,7 +142,27 @@ delete from game; select * from game;
 
 # Viikko 5
 
+### Tehtävä Tietokannan suunnittelu harjoitukset
 
+1 ident
+
+2 country
+
+3 a.
+
+4 Tosi
+
+5 Epätosi
+
+6 b.
+
+7 a.
+
+8 Tosi
+
+9 c.
+
+10 a.
 
 
 
